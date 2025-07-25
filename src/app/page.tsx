@@ -3,9 +3,9 @@ import styles from './page.module.css';
 import { ProductCard } from '@/components/ProductCard';
 
 const products = [
-  { name: 'Playera Roja', price: '$299.99', imageUrl: '/playeras/shirttwo.jpeg' },
-  { name: 'Playera Azul', price: '$349.99', imageUrl: '/playeras/shirtone.jpeg' },
-  { name: 'Playera Negra', price: '$399.99', imageUrl: '/playeras/shirtthree.jpeg' },
+  { name: 'Playera Roja', price: '$299.99', imageUrl: '/playeras/proverbs.jpeg' },
+  { name: 'Playera Azul', price: '$349.99', imageUrl: '/playeras/yaweh_s1/IMG_2548.jpeg' },
+  { name: 'Playera Negra', price: '$399.99', imageUrl: '/playeras/grey_shiirt/IMG_2563.jpeg' },
 ];
 
 export default function Home() {
